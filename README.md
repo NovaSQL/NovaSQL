@@ -45,3 +45,15 @@
        - [SQLite Driver](https://github.com/NovaSQL/SQLite-Driver)
   2. Make your changes.
   3. Submit a pull-request with your changes. (Optional)
+
+## License
+This project is licensed under the [GNU GPLv3 license](https://github.com/NovaSQL/NovaSQL/LICENSE.md).
+
+## Contact
+You can reach us on:
+- ~~Website: novasql.io~~
+- ~~E-mail: info@novasql.io~~
+- ~~Discord: https://discord.novasql.io~~
+- ~~Twitter: @NovaSQL~~
+- ~~Facebook: NovaSQL~~
+- ~~Reddit: https://reddit.com/r/NovaSQL~~
