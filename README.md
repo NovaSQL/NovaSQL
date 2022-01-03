@@ -51,9 +51,9 @@ This project is licensed under the [GNU GPLv3 license](https://github.com/NovaSQ
 
 ## Contact
 You can reach us on:
-- ~~Website: novasql.io~~
-- ~~E-mail: info@novasql.io~~
-- ~~Discord: https://discord.novasql.io~~
-- ~~Twitter: @NovaSQL~~
-- ~~Facebook: NovaSQL~~
-- ~~Reddit: https://reddit.com/r/NovaSQL~~
+- Website: https://novasql.io
+- E-mail: info@novasql.io
+- Discord: https://discord.novasql.io
+- Twitter: [@NovaSQL](https://twitter.com/NovaSQL)
+- Facebook: [NovaSQL](https://facebook.com/NovaSQL)
+- Reddit: [r/NovaSQL](https://reddit.com/r/NovaSQL)
