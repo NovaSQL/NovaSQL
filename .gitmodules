@@ -10,3 +10,9 @@
 [submodule "MSSQL-Driver"]
 	path = MSSQL-Driver
 	url = https://github.com/NovaSQL/MSSQL-Driver
+[submodule "PostgresSQL-Driver"]
+	path = PostgresSQL-Driver
+	url = https://github.com/NovaSQL/PostgresSQL-Driver
+[submodule "SQLite-Driver"]
+	path = SQLite-Driver
+	url = https://github.com/NovaSQL/SQLite-Driver
