@@ -54,6 +54,6 @@ You can reach us on:
 - Website: https://novasql.io
 - E-mail: info@novasql.io
 - Discord: https://discord.novasql.io
-- Twitter: [@NovaSQL](https://twitter.com/NovaSQL)
+- Twitter: [NovaSQL](https://twitter.com/NovaSQL)
 - Facebook: [NovaSQL](https://facebook.com/NovaSQL)
-- Reddit: [r/NovaSQL](https://reddit.com/r/NovaSQL)
+- Reddit: [NovaSQL](https://reddit.com/r/NovaSQL)
