@@ -19,3 +19,6 @@
 [submodule "SQLite-Driver"]
 	path = SQLite-Driver
 	url = https://github.com/NovaSQL/SQLite-Driver
+[submodule "Example-Driver"]
+	path = Example-Driver
+	url = https://github.com/NovaSQL/Example-Driver
