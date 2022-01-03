@@ -4,9 +4,6 @@
 [submodule "Core"]
 	path = Core
 	url = https://github.com/NovaSQL/Core
-[submodule "Driver"]
-	path = Driver
-	url = https://github.com/NovaSQL/Driver
 [submodule "MySQL-Driver"]
 	path = MySQL-Driver
 	url = https://github.com/NovaSQL/MySQL-Driver
