@@ -1,0 +1,21 @@
+[submodule "API"]
+	path = API
+	url = https://github.com/NovaSQL/API
+[submodule "Core"]
+	path = Core
+	url = https://github.com/NovaSQL/Core
+[submodule "Driver"]
+	path = Driver
+	url = https://github.com/NovaSQL/Driver
+[submodule "MySQL-Driver"]
+	path = MySQL-Driver
+	url = https://github.com/NovaSQL/MySQL-Driver
+[submodule "MSSQL-Driver"]
+	path = MSSQL-Driver
+	url = https://github.com/NovaSQL/MSSQL-Driver
+[submodule "PostgresSQL-Driver"]
+	path = PostgresSQL-Driver
+	url = https://github.com/NovaSQL/PostgresSQL-Driver
+[submodule "SQLite-Driver"]
+	path = SQLite-Driver
+	url = https://github.com/NovaSQL/SQLite-Driver
