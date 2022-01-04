@@ -1,18 +1,24 @@
 [submodule "API"]
 	path = API
 	url = https://github.com/NovaSQL/API
+        branch = main
 [submodule "Core"]
 	path = Core
 	url = https://github.com/NovaSQL/Core
+        branch = main
 [submodule "MySQL-Driver"]
 	path = MySQL-Driver
 	url = https://github.com/NovaSQL/MySQL-Driver
+        branch = main
 [submodule "MSSQL-Driver"]
 	path = MSSQL-Driver
 	url = https://github.com/NovaSQL/MSSQL-Driver
+        branch = main
 [submodule "PostgresSQL-Driver"]
 	path = PostgresSQL-Driver
 	url = https://github.com/NovaSQL/PostgresSQL-Driver
+        branch = main
 [submodule "SQLite-Driver"]
 	path = SQLite-Driver
 	url = https://github.com/NovaSQL/SQLite-Driver
+        branch = main
