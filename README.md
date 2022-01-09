@@ -37,7 +37,6 @@
       - `git clone --recursive https://github.com/NovaSQL/NovaSQL`
       
       **Selected module**
-       - [API](https://github.com/NovaSQL/API)
        - [Core](https://github.com/NovaSQL/Core)
        - [MySQL Driver](https://github.com/NovaSQL/MySQL-Driver)
        - [PostgresSQL Driver](https://github.com/NovaSQL/PostresSQL-Driver)
