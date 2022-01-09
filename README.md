@@ -47,7 +47,7 @@
   3. Submit a pull-request with your changes. (Optional)
 
 ## License
-This project is licensed under the [GNU GPLv3 license](https://github.com/NovaSQL/NovaSQL/LICENSE.md).
+This project is licensed under the [Apache License 2.0](https://github.com/NovaSQL/NovaSQL/LICENSE.md).
 
 ## Contact
 You can reach us on:
